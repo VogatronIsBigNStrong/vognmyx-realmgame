@@ -36,6 +36,7 @@
   "resources":[
     {"id":{"name":"Tiernan","path":"objects/Tiernan/Tiernan.yy",},},
     {"id":{"name":"Tiernan2","path":"objects/Tiernan2/Tiernan2.yy",},},
+    {"id":{"name":"Tiernan3","path":"objects/Tiernan3/Tiernan3.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
